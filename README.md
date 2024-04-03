@@ -1,3 +1,7 @@
+netlify project Link to view : https://magnificent-douhua-0e2297.netlify.app/
+
+Description :  Basic search,remove functionality with help of api 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
